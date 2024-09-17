@@ -60,7 +60,9 @@ function App() {
           <MySkills />
         </motion.div>
       </div>
-      <LineGradient />
+      <div className="sm:mt-5 md:block lg:mt-[14rem] md:mt-[20rem] ">
+        <LineGradient />
+      </div>
       <div className="w-5/6 mx-auto">
         <motion.div
           margin="0 0 -200px 0"
@@ -80,7 +82,10 @@ function App() {
           <Testimonials />
         </motion.div>
       </div>
-      <LineGradient />
+      <div className="sm:mt-10 md:block lg:mt-[16rem] md:mt-[22rem] ">
+    
+        <LineGradient />
+      </div>
       <div className="w-5/6 mx-auto md:h-full">
         <motion.div
           margin="0 0 -200px 0"
