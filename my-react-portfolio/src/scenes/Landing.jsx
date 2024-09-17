@@ -56,8 +56,7 @@ const Landing = ({ setSelectedPage }) => {
           </p>
 
           <p className="mt-10 mb-7 text-sm text-center md:text-start">
-            Adipiscing arcu, in aliquam fringilla cursus. Elit arcu elementum
-            viverra malesuada sem ac faucibus dolor. Sagittis scelerisque.
+          I am a software Engineer/Frontend Developer and Chemist from Enugu State, based in Abuja,Nigeria.
           </p>
         </motion.div>
 
