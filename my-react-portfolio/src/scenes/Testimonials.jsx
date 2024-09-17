@@ -21,8 +21,7 @@ const Testimonials = () => {
         </p>
         <LineGradient width="mx-auto w-2/5" />
         <p className="mt-10">
-          Here's What People are Saying About My Work. Aliquam aliquet integer
-          ut fames odio in at. At magna ornare dictum lectus.
+          Here's What People are Saying About My Work.
         </p>
       </motion.div>
 
@@ -42,7 +41,7 @@ const Testimonials = () => {
         >
           <p className="font-playfair text-6xl">“</p>
           <p className="text-center text-xl">
-            A auctor pharetra hendrerit mattis amet etiam interdum platea.
+            Working with Makata Faith was a fantanstic experience. She delivered high-quality work and was always open for feedback.
           </p>
         </motion.div>
 
@@ -60,8 +59,7 @@ const Testimonials = () => {
         >
           <p className="font-playfair text-6xl">“</p>
           <p className="text-center text-xl">
-            Aliquam aliquet integer ut fames odio in at. At magna ornare dictum
-            lectus.
+           Makata Faith has a remarkable ability to translate complex requirements into user-friendly designs. Highly recommend!
           </p>
         </motion.div>
 
@@ -79,7 +77,7 @@ const Testimonials = () => {
         >
           <p className="font-playfair text-6xl">“</p>
           <p className="text-center text-xl">
-            Fames odio in at. At magna ornare dictum lectus.
+            An excellent Frontend developer with a keen eye for details. Her work signifacantly improved our application's usability.
           </p>
         </motion.div>
       </div>
