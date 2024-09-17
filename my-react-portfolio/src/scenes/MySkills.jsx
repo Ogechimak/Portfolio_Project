@@ -22,8 +22,7 @@ const MySkills = () => {
             MY <span className="text-red">SKILLS</span>
           </p>
           <p className="mt-10 mb-7">
-            Aliquam, amet dui feugiat facilisi dui. Aliquam aliquet integer ut
-            fames odio in at.
+          As a frontend developer with a strong focus on building interactive and responsive user interfaces, I specialize in modern technologies that enhance user experience.
           </p>
         </motion.div>
 
