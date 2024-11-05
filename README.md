@@ -1,4 +1,5 @@
-Personal Portfolio
+MY PERSONAL PORTFOLIO
+
 Welcome to the repository for my personal portfolio website! This project showcases my skills, experience, and projects as a frontend developer, built using HTML, Tailwind CSS, and JavaScript.
 
 🖥️ Project Overview
